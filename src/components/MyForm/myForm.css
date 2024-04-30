@@ -1,0 +1,23 @@
+.form {
+  margin: 50px;
+}
+
+.content-form {
+  display: flex;
+  justify-content: center; 
+}
+
+.inputt {
+  width: fit-content;
+}
+
+.parrafo {
+  font-size: 24px;
+  font-weight: 300;
+}
+
+.number {
+  color:red;
+  font-weight: 400;
+  background-color: antiquewhite;
+}

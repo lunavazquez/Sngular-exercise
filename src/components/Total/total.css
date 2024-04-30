@@ -1,0 +1,13 @@
+p {
+  font-size: 30px;
+  font-weight: 500;
+}
+.total {
+  color:blueviolet;
+  font-weight: 500;
+  font-size: 30px;
+  background-color: antiquewhite;
+  width: 200px;
+  text-align: center;
+
+}
