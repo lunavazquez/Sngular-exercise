@@ -20,7 +20,7 @@ El proyecto está hecho con las siguientes tecnologías:
 - Haz tu propio **fork/clone** del repositorio a tu computadora (copia local).
 
 ```
-git clone git@github.com:lunavazquez/test-Sngular.git
+git clone git@github.com:lunavazquez/Sngular-exercise.git
 ```
 
 - Accesa a tu repositorio
