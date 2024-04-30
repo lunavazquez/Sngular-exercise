@@ -8,7 +8,7 @@ import "./home.css";
 function Home() {
   return (
     <div>
-      <p className="title">Encontrar el términi de la serie n </p>
+      <p className="title">Encontrar el término de la serie n </p>
       <Image src={serie} alt="serie" />
       <MyForm />
     </div>
