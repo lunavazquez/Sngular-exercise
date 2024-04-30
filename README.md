@@ -26,7 +26,7 @@ git clone git@github.com:lunavazquez/Sngular-exercise.git
 - Accesa a tu repositorio
 
 ```
-cd test-Sngular
+cd Sngular-exercise
 ```
 
 - Instala las dependencias del proyecto con el comando:
